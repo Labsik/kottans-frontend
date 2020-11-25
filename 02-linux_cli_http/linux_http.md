@@ -17,4 +17,4 @@ My speciality in university is "Telecommunication networks", so it was a good id
 
 It was useful to me read about headers and request format, about request-related API in Express.js
 
-Second part article "HTTP: The Protocol Every Web Developer Must Know" is more detailed and  helpful for me and I really happy that I read it. Some information about Identification and Cashing is new for me.
+Second part article "HTTP: The Protocol Every Web Developer Must Know" is more detailed and  helpful for me and I really happy that I read it. Some information about Identification and Caching is new for me.
