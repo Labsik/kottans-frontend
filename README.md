@@ -18,11 +18,11 @@ I did all level in [Linux Survival](https://linuxsurvival.com/linux-tutorial-qui
 
 [Github & Collaboration](https://classroom.udacity.com/courses/ud456) course.
 
-I`ve already known something about github collaboration, I made pull requests and pushed code before, but now I know more! Great!
+I have already known something about github collaboration, I made pull requests and pushed code before, but now I know more! Great!
 
 <details>
 <summary>Screenshot</summary>
-![](task_git_collaboration/images/git-collaboration-udacity.png)
+![screenshot](task_git_collaboration/images/git-collaboration-udacity.png)
 </details>
 
 ### What was new
