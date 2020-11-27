@@ -23,7 +23,7 @@ I have already known something about github collaboration, I made pull requests 
 <details>
 <summary>Screenshot</summary>
   
-  ![screenshot](01-git_basics/learning-1)
+ ![](task_git_collaboration/images/git-collaboration-udacity.png)
   
 </details>
 
