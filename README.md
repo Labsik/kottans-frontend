@@ -10,7 +10,7 @@ I`ve already known a basic git, but it was very nice to repeat some things.
 
 <details>
 <summary>Screenshot</summary>
-![](git_basics/images/udacity.png)
+![](task_git_basics/images/udacity.png)
 </details>
 
 
@@ -19,12 +19,12 @@ Wow! It was interesting and sometimes not easy! Firstly I used git commands, lik
 
 <details>
 <summary>Screenshot</summary>
-![](git_basics/images/learning-1.png)
+![](task_git_basics/images/learning-1.png)
 </details>
 
 <details>
 <summary>Screenshot</summary>
-![](git_basics/images/learning-2.png)
+![](task_git_basics/images/learning-2.png)
 </details>
 
 
@@ -57,7 +57,7 @@ Second part article "HTTP: The Protocol Every Web Developer Must Know" is more d
 
 [Github & Collaboration](https://classroom.udacity.com/courses/ud456) course.
 
-I`ve already known something about github collaboration, I made pull requests and pushed code before, but now I know more! Great!
+I have already known something about github collaboration, I made pull requests and pushed code before, but now I know more! Great!
 
 <details>
 <summary>Screenshot</summary>
@@ -69,17 +69,6 @@ I`ve already known something about github collaboration, I made pull requests an
 * Also it useful to be familiar with ``` git rebase ```
 * After this lesson I will not lost in github interface. I know about **fork**, **star**, **issues** and **CONTRIBUTING.md** file
 
-
 I think, everything from this lesson I`ll use in the future.
 
-### Learn Git Branching
 
-<details>
-<summary>Screenshot</summary>
-![](git_basics/images/learning-1.png)
-</details>
-
-<details>
-<summary>Screenshot</summary>
-![](git_basics/images/learning-2.png)
-</details>
