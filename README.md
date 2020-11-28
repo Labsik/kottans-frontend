@@ -89,9 +89,9 @@ I have already known something about github collaboration, I made pull requests 
 
 <details>
 <summary>Screenshot</summary>
- 
+
  ![](task_git_collaboration/images/git-collaboration-udacity.png)
- 
+
 </details>
 
 ### What was new
@@ -106,15 +106,43 @@ I think, everything from this lesson I will use in the future.
 
 <details>
 <summary>Screenshot</summary>
- 
+
 ![](task_git_basics/images/learning-1.png)
 
 </details>
 
 <details>
 <summary>Screenshot</summary>
- 
+
 ![](task_git_basics/images/learning-2.png)
 
 </details>
 
+## Intro to HTML and CSS
+
+I known a lot about HTML and CSS before. Almost nothing new for me except some information about grid.
+
+[HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) course on Udacity
+
+<details>
+<summary>Screenshot</summary>
+
+![](task_html_css_intro/images/udacity.png)
+
+</details>
+
+Screenshots from codecademy courses
+
+<details>
+<summary>Screenshot</summary>
+
+![](task_html_css_intro/images/html.png)
+
+</details>
+
+<details>
+<summary>Screenshot</summary>
+
+![](task_html_css_intro/images/css.png)
+
+</details>
