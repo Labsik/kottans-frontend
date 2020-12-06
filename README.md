@@ -146,3 +146,33 @@ Screenshots from codecademy courses
 ![](task_html_css_intro/images/css.png)
 
 </details>
+
+## Responsive Web Design
+
+[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) course on Udacity
+
+Wow! Amazing course! I really learned a lot!
+For example:
+
+- How work with images and tables
+- Common responsive patterns:
+  - Column Drop
+  - Mostly fluid
+  - Layout shifter
+  - Off canvas
+
+<summary>Screenshot</summary>
+
+![](task_responsive_web_design/images/responsive.png)
+
+</details>
+
+ [Flexbox Froggy](http://flexboxfroggy.com/) game
+
+ Funny game to improve my skills in flex. Nice!
+
+ <summary>Screenshot</summary>
+
+![](task_responsive_web_design/images/froggy.png)
+
+</details>
