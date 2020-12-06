@@ -161,16 +161,17 @@ For example:
   - Layout shifter
   - Off canvas
 
+<details>
 <summary>Screenshot</summary>
 
 ![](task_responsive_web_design/images/responsive.png)
-
 </details>
 
  [Flexbox Froggy](http://flexboxfroggy.com/) game
 
  Funny game to improve my skills in flex. Nice!
 
+<details>
  <summary>Screenshot</summary>
 
 ![](task_responsive_web_design/images/froggy.png)
